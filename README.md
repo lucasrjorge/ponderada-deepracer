@@ -5,14 +5,14 @@ https://youtu.be/8OYVzKITCa4
 
 # Análise de Funções de Recompensa — DeepRacer for Cloud
 
-**Aluno:** [Seu Nome Completo]  
+**Aluno:** Lucas Ramenzoni Jorge
 **Instituição:** Inteli - Instituto de Tecnologia e Liderança  
 **Data:** Maio de 2026  
 
 ---
 
 ## 🔗 Link para o Vídeo da Simulação
-**[Insira aqui o link do YouTube ou Google Drive com o vídeo do subgrupo]**
+**[[Link]](https://youtu.be/8OYVzKITCa4)**
 
 ---
 
