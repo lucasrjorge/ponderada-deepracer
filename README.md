@@ -1,8 +1,3 @@
-# ponderada-deepracer
-
-# Link do video:
-https://youtu.be/8OYVzKITCa4
-
 # Análise de Funções de Recompensa — DeepRacer for Cloud
 
 **Aluno:** Lucas Ramenzoni Jorge
@@ -11,7 +6,7 @@ https://youtu.be/8OYVzKITCa4
 
 ---
 
-## 🔗 Link para o Vídeo da Simulação
+# 🔗 Link para o Vídeo da Simulação
 **[[Link]](https://youtu.be/8OYVzKITCa4)**
 
 ---
